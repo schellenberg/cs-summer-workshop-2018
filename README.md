@@ -15,28 +15,28 @@ Particpants should also bring along any student work / favourite assignments the
 - Jeff - Networking session (bring your own stuff)
 
 Concurrent sessions:
-- Jeff - Pseudo code algorithms
-- Stefan (Dan helps) - Recursion 
+- Jeff - Pseudo code algorithms 
+- Stefan (Dan helps) - Recursion [**CS30**]
 
 Concurrent sessions:
-- Stefan - Scratch
-- Dan - CodingBat
+- Stefan - Scratch [**CS20**]
+- Dan - CodingBat [**CS30**]
 
 Concurrent sessions:
-- Stefan - Reeborg (solving problems)
-- Dan - Reeborg (building worlds)
+- Stefan - Reeborg (solving problems) [**CS20**]
+- Dan - Reeborg (building worlds) [**CS20**]
 
 ### Day 2
 - Jeff - online course and university info
 
 Concurrent sessions:
-- Dan - Turtle Graphics
-- Stefan - OOP
+- Dan - Turtle Graphics [**CS20**]
+- Stefan - OOP [**CS30**]
 
 Concurrent sessions:
-- Dan - Microbits
-- Stefan - Capstone Project / External Libraries
+- Dan - Microbits [**CS20**]
+- Stefan - Capstone Project / External Libraries [**CS30**]
 
 Concurrent sessions:
-- Dan (Stefan helps) - Image Manipulation
+- Dan (Stefan helps) - Image Manipulation [**CS20**]
 - AI by Michael Horsch
