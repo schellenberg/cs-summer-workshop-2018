@@ -1,4 +1,4 @@
-# Code/Support Resources For this Session Will Be In This Folder
+# Object-Oriented Programming
 
 The Presentation Slides used for this session are available in this folder for later reference or for following along.
 

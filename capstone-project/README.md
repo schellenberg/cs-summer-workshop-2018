@@ -1,4 +1,4 @@
-# Code/Support Resources For this Session Will Be In This Folder
+# External Libraries and Capstone Coding Project
 
 The Presentation Slides used for this session are available in this folder for later reference or for following along.
 
