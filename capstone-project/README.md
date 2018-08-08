@@ -1,4 +1,4 @@
-# External Libraries and Capstone Coding Project
+# External Libraries and Capstone Coding Project Session
 
 The Presentation Slides used for this session are available in this folder for later reference or for following along.
 

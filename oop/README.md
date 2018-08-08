@@ -1,4 +1,4 @@
-# Object-Oriented Programming
+# Object-Oriented Programming Session
 
 The Presentation Slides used for this session are available in this folder for later reference or for following along.
 

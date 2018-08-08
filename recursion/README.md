@@ -1,4 +1,4 @@
-# Recursion
+# Recursion Session
 
 The Presentation Slides used for this session are available in this folder for later reference or for following along.
 "Teaching Recursion" is the main set. "In-class Lesson" is a presentation used with students that we will briefly look at as well.
