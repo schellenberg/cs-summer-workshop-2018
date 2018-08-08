@@ -1,6 +1,6 @@
 # Reeborg - Solving Problems
 
-TBA
+The Presentation Slides used for this session are available in this folder (Reeborg - Solving Problems.pptx) for later reference or for following along.
 
 
 # Reborg - Building Your Own Worlds

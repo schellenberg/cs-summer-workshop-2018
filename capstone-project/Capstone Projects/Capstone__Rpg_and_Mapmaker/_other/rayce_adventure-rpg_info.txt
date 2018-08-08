@@ -1,0 +1,8 @@
+Game Grid Size/Level Size: 640px x 320px
+Game Grid #Cols: 20
+Game Grid #Rows: 10
+
+Main Tile Size: 32px x 32px
+Movement Tile Size: 16px x 16px 
+
+ASSET NAMING CONVENTION: rayce-game_map_0.png
