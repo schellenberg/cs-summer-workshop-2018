@@ -1,5 +1,6 @@
 # cs-summer-workshop-2018
 Code repository for the Computer Science summer workshop held at the University of Saskatchewan on August 17 and 18, 2018.
+Shortened URL: [http://bit.ly/cs-usask2018](http://bit.ly/cs-usask2018)
 
 ## Prior to the Workshop
 
